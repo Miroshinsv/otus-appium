@@ -10,8 +10,8 @@ repositories {
 dependencies {
     testImplementation 'org.testng:testng:7.4.0'
     implementation 'com.google.guava:guava:30.1.1-jre'
-    implementation 'io.appium:java-client:7.6.0'
-
+    implementation 'io.appium:java-client:8.3.0'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.8.1'
 }
 
 application {
